@@ -13,3 +13,4 @@ SBMS :Prototype= (https://www.figma.com/design/Ohlb1ZCJsTxnNs4lYlKAMU/Untitled?n
       laravel Project= (https://github.com/Oh-Hoa-Yang/SBMS)
 
 SDW Project(E-Munakahat) : Prototype= (https://www.figma.com/team_invite/redeem/48Y3mbNcR8iMFMxOGEiolU)
+                           Project= (https://github.com/aliffiman31/OMRS)
