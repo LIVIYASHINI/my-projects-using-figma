@@ -8,4 +8,7 @@ Mobile App Project (new year invitation app) : Prototype= (https://www.figma.com
 
 Finance Management App : Prototype = (https://www.figma.com/design/DQTtkODW52ixSi5cMPqwls/finance-management-app?node-id=0-1&t=sbc1HsuciAhLbEzp-1)
 
-KAFA maangement system : Protottype= (https://www.figma.com/design/QxB0ieHDlWq42RJ2yysxaM/KAFA-Management-System?node-id=0-1&t=6BAo2b9qQRMS3VPN-1)
+KAFA management system : Prototype= (https://www.figma.com/design/QxB0ieHDlWq42RJ2yysxaM/KAFA-Management-System?node-id=0-1&t=6BAo2b9qQRMS3VPN-1)
+                         Laravel Project= (https://github.com/allynanana/KAFAMS)
+                         
+SBMS (laravel Project) : (https://github.com/Oh-Hoa-Yang/SBMS)
