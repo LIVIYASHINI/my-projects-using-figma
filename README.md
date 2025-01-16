@@ -10,7 +10,10 @@ KAFA management system : Prototype= (https://www.figma.com/design/QxB0ieHDlWq42R
                          Laravel Project= (https://github.com/allynanana/KAFAMS)
                          
 SBMS :Prototype= (https://www.figma.com/design/Ohlb1ZCJsTxnNs4lYlKAMU/Untitled?node-id=0-1&t=ahuubAOyfASo1BLe-1) 
-      laravel Project= (https://github.com/Oh-Hoa-Yang/SBMS)
+      laravel Project= (https://github.com/Oh-Hoa-Yang/SBMS) 
+      System = (https://indah.ump.edu.my/BCS3263-2BG6/SBMS/public/)
 
 SDW Project(E-Munakahat) : Prototype= (https://www.figma.com/team_invite/redeem/48Y3mbNcR8iMFMxOGEiolU)
                            Project= (https://github.com/aliffiman31/OMRS)
+
+Depression Prediction Dashboard: (https://depression-detection-psm.streamlit.app/)
